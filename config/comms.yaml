@@ -1,0 +1,5 @@
+ida:
+  host: 192.168.1.50
+  port: 5005
+  announce_period_s: 1.0
+  ack_timeout_s: 3.0

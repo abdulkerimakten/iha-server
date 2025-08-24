@@ -1,0 +1,11 @@
+vision:
+  min_conf: 0.6
+  stable_n: 5
+  hsv_fallback: true
+mav:
+  takeoff_alt: 20
+  guided_timeout_s: 15
+  rtl_after_ack: true
+comms:
+  ida_port: 5005
+  heartbeat_period_s: 1.0
